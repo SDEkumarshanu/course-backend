@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.use(cors());",
+  "type": "java.lang.String",
+  "description": "A description for 'app.use(cors());'"
+}]}
